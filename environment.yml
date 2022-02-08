@@ -1,0 +1,36 @@
+name: road_id
+
+dependencies:
+  - python
+  - pip
+  - ipython
+  - sympy
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - scipy
+  - tensorflow
+  - keras
+  - scikit-learn
+  - GitPython
+  - scikit-image
+  - pillow
+  - psycopg2
+  - geopandas
+  - seaborn
+  - plotly
+  - cython
+  - boto3
+  - s3fs
+  - nodejs
+  - altair
+  - ipykernel
+  - ipywidgets
+  - jupyterlab
+  - nbgitpuller
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
